@@ -1,0 +1,6 @@
+.claude/
+CLAUDE.md
+*.ps1
+*.cmd
+desktop.ini
+Thumbs.db
